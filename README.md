@@ -1,6 +1,7 @@
 # AI-CPP
 AI implementation for pacman in CPP
 Copy and paste these maps, doesn't visualize but outputs all nodes visited and final path.
+Currently have Depth first search, Bredth first search and uniform cost search
 
 
 3 9
