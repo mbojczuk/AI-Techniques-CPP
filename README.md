@@ -1,5 +1,5 @@
-# DFS-CPP
-DFS implementation for pacman in CPP
+# AI-CPP
+AI implementation for pacman in CPP
 Copy and paste these maps, doesn't visualize but outputs all nodes visited and final path.
 
 
