@@ -58,7 +58,7 @@ void dfs(int r, int c, int pacman_r, int pacman_c, int food_r, int food_c, vecto
 	//while the stack is not empty
 	while (!stack.empty())
 	{
-		//in c++ as this is dfs its first in last out, so we grab the back value
+		//in c++ as this is dfs its last in first out, so we grab the back value
 		*root = stack.back();
 		//pop the back of the stack off
 		stack.pop_back();
